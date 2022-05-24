@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my blog"
+Welcome: "Hey there this is my personal blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Select the theme you would like to talk about
+
+- [ ] Mobile Development
+- [ ] FrontEnd Development
+- [ ] BackEnd Development
+- [ ] New Frameworks
+- [ ] New languages
+- [ ] Hobbies
